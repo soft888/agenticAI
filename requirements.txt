@@ -1,0 +1,11 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+httpx==0.24.0
+kubernetes==26.1.0
+azure-identity==1.12.0
+azure-keyvault-secrets==4.6.0
+azure-storage-blob==12.16.0
+pyjwt==2.6.0
+azure-monitor-opentelemetry==0.1.0
+opentelemetry-api==1.17.0
+opentelemetry-sdk==1.17.0
